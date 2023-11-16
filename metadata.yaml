@@ -1,11 +1,16 @@
 _repo: Scaffolding_72009
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72009-h/images/cover.jpg
 creator:
   author:
     agent_name: Thatcher, A. G. H.
     gutenberg_agent_id: '56497'
     url: http://www.gutenberg.org/2009/agents/56497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72009#Scaffolding
 gutenberg_issued: '2023-11-02'
 identifiers:
   gutenberg: '72009'
